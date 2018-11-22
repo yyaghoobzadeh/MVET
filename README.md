@@ -1,6 +1,20 @@
-# MVET
-The dataset is published in the "dataset" folder.
-The code for reproducing the results of the EMNLP2018 paper will be published soon.
+# MVET (Multi-View Entity Typing)
+
+##Dataset
+The files of the dataset can be found in the "dataset" folder.
+Each tsv dataset file is tab-seperated with these fields:
+
+```
+Freebase_mid
+frequency
+English_Wiki_Title (e.g., Apple)
+titles in other languages, e.g., de: Apfel fa: سیب
+FIGER types 
+Freebase types
+```
+
+## code
+The source code for reproducing the results of the EMNLP2018 paper will be published soon.
 
 ## Reference
 
