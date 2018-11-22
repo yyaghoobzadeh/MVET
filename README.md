@@ -8,7 +8,7 @@ Each tsv dataset file is tab-seperated with these fields:
 Freebase_mid
 frequency
 English_Wiki_Title (e.g., Apple)
-titles in other languages, e.g., de: Apfel fa: سیب
+titles in other languages, e.g., de:Apfel fa:سیب
 FIGER types 
 Freebase types
 ```
