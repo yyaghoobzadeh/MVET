@@ -21,6 +21,6 @@ The code for reproducing the results of the EMNLP2018 paper will be published so
 
 
 ### License
-See LICENSE.txt.
+See LICENSE.
 
 
