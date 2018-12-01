@@ -21,7 +21,7 @@ The source code for reproducing the results of the EMNLP2018 paper will be publi
 
 ```
 @InProceedings{yaghoobzadeh-schtze:2018:EMNLP,
-  author    = {Yaghoobzadeh, Yadollah  and  SchÃ¼tze, Hinrich},
+  author    = {Yaghoobzadeh, Yadollah  and  Schütze, Hinrich},
   title     = {Multi-Multi-View Learning: Multilingual and Multi-Representation Entity Typing},
   booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
   month     = {October-November},
